@@ -1,0 +1,206 @@
+segment,acquisition_channel,months,customers,gp_ltv_eur,revenue_ltv_eur,orders_per_customer
+Consumer / hobby,Google Search,1,4030,90.877531,272.8604,1.0220844
+Consumer / hobby,Google Shopping,1,6632,65.360746,217.50009,1.0186972
+Consumer / hobby,Marketplaces,1,1989,44.63091,223.20042,1.0211161
+Consumer / hobby,Meta,1,1705,59.756569,185.22135,1.0152493
+Consumer / hobby,Microsoft Ads,1,103,88.537767,272.12641,1.0194175
+Consumer / hobby,Organic & direct,1,14256,89.080958,265.13198,1.019711
+Consumer / hobby,,1,28715,79.032641,247.59138,1.0196413
+Installer / contractor,Google Search,1,4082,121.80004,383.9241,1.0678589
+Installer / contractor,Google Shopping,1,3919,88.44578,311.49214,1.0620056
+Installer / contractor,Marketplaces,1,510,55.403451,293.29343,1.0666667
+Installer / contractor,Meta,1,320,68.163969,240.64153,1.103125
+Installer / contractor,Microsoft Ads,1,366,128.03847,407.2474,1.0519126
+Installer / contractor,Organic & direct,1,14764,117.60457,375.2717,1.0703739
+Installer / contractor,,1,23961,111.72534,363.25966,1.0686532
+MRO / maintenance,Google Search,1,4884,165.63282,483.31895,1.1332924
+MRO / maintenance,Google Shopping,1,2891,138.65701,427.06232,1.1193359
+MRO / maintenance,Marketplaces,1,410,92.514366,418.57571,1.1414634
+MRO / maintenance,Meta,1,191,134.64482,377.28298,1.1623037
+MRO / maintenance,Microsoft Ads,1,913,200.99372,564.69278,1.1303395
+MRO / maintenance,Organic & direct,1,19547,172.74665,496.41342,1.1288177
+MRO / maintenance,,1,28836,167.62527,487.50872,1.1290748
+OEM / machine builder,Google Search,1,2536,288.59057,981.9343,1.1798107
+OEM / machine builder,Google Shopping,1,1241,237.16134,845.20776,1.1821112
+OEM / machine builder,Marketplaces,1,121,85.795868,569.54289,1.1322314
+OEM / machine builder,Meta,1,34,219.53529,700.84,1.3823529
+OEM / machine builder,Microsoft Ads,1,565,314.72938,1052.3433,1.1858407
+OEM / machine builder,Organic & direct,1,11762,269.43851,917.11787,1.1729298
+OEM / machine builder,,1,16259,270.06497,923.39909,1.1752875
+Reseller,Google Search,1,924,304.91008,1200.8394,1.2337662
+Reseller,Google Shopping,1,901,298.91935,1245.6172,1.2097669
+Reseller,Marketplaces,1,992,155.48753,1040.2701,1.2066532
+Reseller,Microsoft Ads,1,147,327.9951,1231.5459,1.2040816
+Reseller,Organic & direct,1,6430,323.28923,1274.6536,1.2073095
+Reseller,,1,9394,301.49797,1239.1829,1.2100277
+,Google Search,1,16456,163.22178,524.25233,1.1026373
+,Google Shopping,1,15584,111.94767,389.44041,1.0723178
+,Marketplaces,1,4022,79.458593,463.94927,1.0882645
+,Meta,1,2250,69.723902,217.1988,1.0457778
+,Microsoft Ads,1,2094,222.31429,701.17348,1.1313276
+,Organic & direct,1,66759,174.22095,569.31333,1.1079255
+,,1,107165,158.66536,527.4659,1.1003499
+Consumer / hobby,Google Search,3,3675,95.417668,287.98551,1.0620408
+Consumer / hobby,Google Shopping,3,6053,68.448746,226.56445,1.0555097
+Consumer / hobby,Marketplaces,3,1839,47.45807,229.98588,1.0565525
+Consumer / hobby,Meta,3,1558,64.136598,197.74232,1.0539153
+Consumer / hobby,Microsoft Ads,3,93,91.424731,281.67484,1.0645161
+Consumer / hobby,Organic & direct,3,13078,92.859413,277.53663,1.0578835
+Consumer / hobby,,3,26296,82.715938,259.22527,1.0576133
+Installer / contractor,Google Search,3,3760,133.29697,423.11681,1.1962766
+Installer / contractor,Google Shopping,3,3607,104.26634,364.31589,1.2034932
+Installer / contractor,Marketplaces,3,463,74.407084,363.11488,1.2332613
+Installer / contractor,Meta,3,297,78.972492,274.18249,1.2323232
+Installer / contractor,Microsoft Ads,3,332,140.75238,454.16997,1.2078313
+Installer / contractor,Organic & direct,3,13564,133.8324,426.02071,1.2108523
+Installer / contractor,,3,22023,127.01371,412.47289,1.2078736
+MRO / maintenance,Google Search,3,4443,205.04842,597.3649,1.4055818
+MRO / maintenance,Google Shopping,3,2648,184.77346,554.3136,1.3780211
+MRO / maintenance,Marketplaces,3,372,126.08597,499.43844,1.4274194
+MRO / maintenance,Meta,3,177,227.52463,635.98277,1.5141243
+MRO / maintenance,Microsoft Ads,3,829,265.78998,743.06799,1.3811821
+MRO / maintenance,Organic & direct,3,18017,213.40987,614.89479,1.3934062
+MRO / maintenance,,3,26486,209.65157,608.42851,1.3948124
+OEM / machine builder,Google Search,3,2315,362.54316,1232.6668,1.5291577
+OEM / machine builder,Google Shopping,3,1128,314.62496,1108.1324,1.5691489
+OEM / machine builder,Marketplaces,3,112,170.44304,786.6242,1.4107143
+OEM / machine builder,Meta,3,29,288.84517,883.58483,1.6896552
+OEM / machine builder,Microsoft Ads,3,520,354.89981,1220.2488,1.5153846
+OEM / machine builder,Organic & direct,3,10846,346.22171,1177.7693,1.5324544
+OEM / machine builder,,3,14950,345.23873,1178.9925,1.5335117
+Reseller,Google Search,3,845,386.72299,1550.3344,1.6366864
+Reseller,Google Shopping,3,831,408.95177,1693.6277,1.645006
+Reseller,Marketplaces,3,909,271.35066,1482.191,1.6776678
+Reseller,Microsoft Ads,3,129,625.70829,2222.0892,1.6434109
+Reseller,Organic & direct,3,5906,424.94686,1678.2446,1.6276668
+Reseller,,3,8620,406.46521,1654.6533,1.6357309
+,Google Search,3,15038,194.77025,629.53946,1.3013034
+,Google Shopping,3,14267,138.39104,477.37313,1.2277283
+,Marketplaces,3,3695,117.55811,598.72013,1.279567
+,Meta,3,2061,83.468229,256.04446,1.1280932
+,Microsoft Ads,3,1903,284.20202,900.76848,1.3899107
+,Organic & direct,3,61411,213.96135,703.00967,1.3287196
+,,3,98375,195.07194,649.59964,1.3050165
+Consumer / hobby,Google Search,6,3341,100.00739,304.13559,1.1110446
+Consumer / hobby,Google Shopping,6,5169,72.22036,240.86042,1.1071774
+Consumer / hobby,Marketplaces,6,1627,50.562311,241.88645,1.1063307
+Consumer / hobby,Meta,6,1389,67.884795,210.31623,1.113031
+Consumer / hobby,Microsoft Ads,6,86,97.213721,292.96953,1.1395349
+Consumer / hobby,Organic & direct,6,11128,98.889669,296.2191,1.1090043
+Consumer / hobby,,6,22740,87.633826,275.65191,1.1090589
+Installer / contractor,Google Search,6,3388,155.18649,494.38917,1.3840024
+Installer / contractor,Google Shopping,6,3041,126.75991,434.85381,1.3850707
+Installer / contractor,Marketplaces,6,412,103.09206,447.67274,1.4490291
+Installer / contractor,Meta,6,260,93.036923,326.67404,1.4346154
+Installer / contractor,Microsoft Ads,6,297,149.48865,477.8336,1.3737374
+Installer / contractor,Organic & direct,6,11472,154.14369,492.02268,1.3939156
+Installer / contractor,,6,18870,147.88801,479.7646,1.3921569
+MRO / maintenance,Google Search,6,3986,258.55577,752.80343,1.7769694
+MRO / maintenance,Google Shopping,6,2250,244.81572,723.77829,1.7395556
+MRO / maintenance,Marketplaces,6,327,191.69606,708.70119,1.8012232
+MRO / maintenance,Meta,6,160,288.9255,812.27481,1.94375
+MRO / maintenance,Microsoft Ads,6,724,333.9159,929.28575,1.7265193
+MRO / maintenance,Organic & direct,6,15251,265.94424,766.04402,1.7561471
+MRO / maintenance,,6,22698,263.81276,764.23584,1.7591858
+OEM / machine builder,Google Search,6,2074,483.23233,1653.464,2.014947
+OEM / machine builder,Google Shopping,6,953,399.7714,1397.69,2.0377754
+OEM / machine builder,Marketplaces,6,103,296.28583,1186.313,1.8543689
+OEM / machine builder,Meta,6,26,292.95077,878.01308,1.8846154
+OEM / machine builder,Microsoft Ads,6,454,477.31377,1609.8053,2.0859031
+OEM / machine builder,Organic & direct,6,9210,461.32355,1567.0379,2.0424539
+OEM / machine builder,,6,12820,459.19115,1565.4893,2.0373635
+Reseller,Google Search,6,769,532.44118,2130.1689,2.2340702
+Reseller,Google Shopping,6,709,527.48481,2221.8987,2.3046544
+Reseller,Marketplaces,6,806,433.78841,2112.1358,2.2679901
+Reseller,Microsoft Ads,6,115,749.26878,2708.082,2.1913043
+Reseller,Organic & direct,6,4986,592.32625,2340.6101,2.1965503
+Reseller,,6,7385,565.00637,2288.0865,2.2185511
+,Google Search,6,13558,243.55885,793.56588,1.5770025
+,Google Shopping,6,12122,170.31745,585.97788,1.4374691
+,Marketplaces,6,3275,173.30514,804.36867,1.5282443
+,Meta,6,1835,93.910834,288.7503,1.2419619
+,Microsoft Ads,6,1676,356.43197,1123.0286,1.7631265
+,Organic & direct,6,52047,271.42438,897.7741,1.6307952
+,,6,84513,246.48119,823.95843,1.5846438
+Consumer / hobby,Google Search,12,2169,108.9268,327.63724,1.1908714
+Consumer / hobby,Google Shopping,12,3658,76.430935,257.95023,1.1908147
+Consumer / hobby,Marketplaces,12,1146,66.510846,290.44407,1.1937173
+Consumer / hobby,Meta,12,941,71.474081,226.43577,1.1976621
+Consumer / hobby,Microsoft Ads,12,72,101.73111,304.69514,1.1666667
+Consumer / hobby,Organic & direct,12,7245,109.09393,327.09205,1.1961353
+Consumer / hobby,,12,15231,95.662481,301.48198,1.1938809
+Installer / contractor,Google Search,12,2240,189.28375,615.17583,1.703125
+Installer / contractor,Google Shopping,12,2055,154.30019,517.78364,1.6749392
+Installer / contractor,Marketplaces,12,282,173.51929,675.2839,1.7836879
+Installer / contractor,Meta,12,175,131.77743,436.5032,1.6571429
+Installer / contractor,Microsoft Ads,12,218,201.1983,644.89179,1.6880734
+Installer / contractor,Organic & direct,12,7420,187.54195,597.96008,1.6818059
+Installer / contractor,,12,12390,181.47687,588.07971,1.6866021
+MRO / maintenance,Google Search,12,2556,345.1404,1003.7076,2.3689358
+MRO / maintenance,Google Shopping,12,1534,323.69816,963.90248,2.321382
+MRO / maintenance,Marketplaces,12,221,270.01457,950.90195,2.4434389
+MRO / maintenance,Meta,12,120,447.24375,1247.2042,2.9416667
+MRO / maintenance,Microsoft Ads,12,538,436.32578,1226.6573,2.3717472
+MRO / maintenance,Organic & direct,12,9858,351.55444,1016.7792,2.338101
+MRO / maintenance,,12,14827,350.20174,1017.5536,2.3493626
+OEM / machine builder,Google Search,12,1382,739.50839,2489.5405,2.8465991
+OEM / machine builder,Google Shopping,12,654,607.82685,2079.7117,2.912844
+OEM / machine builder,Marketplaces,12,72,362.85861,1464.156,2.5833333
+OEM / machine builder,Meta,12,14,582.28,1622.2,2.5714286
+OEM / machine builder,Microsoft Ads,12,355,611.79493,2118.1296,3.0422535
+OEM / machine builder,Organic & direct,12,6021,664.30902,2258.3271,2.9146321
+OEM / machine builder,,12,8498,667.30865,2268.5491,2.9053895
+Reseller,Google Search,12,511,888.44613,3378.3851,3.1056751
+Reseller,Google Shopping,12,482,752.88091,3076.4295,3.1970954
+Reseller,Marketplaces,12,560,635.92334,2992.5594,3.1660714
+Reseller,Microsoft Ads,12,85,1012.1562,3718.6891,3.2117647
+Reseller,Organic & direct,12,3283,849.87433,3350.461,3.114834
+Reseller,,12,4921,822.83527,3292.1518,3.1294452
+,Google Search,12,8858,340.75787,1108.717,2.0291262
+,Google Shopping,12,8383,221.11793,755.00706,1.7660742
+,Marketplaces,12,2281,248.60587,1102.4466,1.9158264
+,Meta,12,1250,121.71146,369.47154,1.4448
+,Microsoft Ads,12,1268,464.62904,1490.9233,2.4298107
+,Organic & direct,12,33827,367.68003,1224.6728,2.1275608
+,,12,55867,333.25463,1117.7306,2.0406501
+Consumer / hobby,Google Search,18,1041,113.03655,348.87305,1.2632085
+Consumer / hobby,Google Shopping,18,1807,80.358506,274.34954,1.2340897
+Consumer / hobby,Marketplaces,18,557,73.088797,317.04241,1.2585278
+Consumer / hobby,Meta,18,368,73.518098,243.35187,1.2554348
+Consumer / hobby,Microsoft Ads,18,31,130.75065,379.09903,1.2258065
+Consumer / hobby,Organic & direct,18,3632,116.26004,351.24096,1.2593612
+Consumer / hobby,,18,7436,101.79582,324.43946,1.253362
+Installer / contractor,Google Search,18,1063,208.83958,668.62579,1.8739417
+Installer / contractor,Google Shopping,18,1036,164.95798,560.20605,1.8851351
+Installer / contractor,Marketplaces,18,141,155.97489,658.68773,1.9716312
+Installer / contractor,Meta,18,84,149.45274,476.26774,1.797619
+Installer / contractor,Microsoft Ads,18,91,212.57626,703.16242,1.8791209
+Installer / contractor,Organic & direct,18,3790,222.76518,697.40403,1.8889182
+Installer / contractor,,18,6205,208.06832,665.77811,1.8862208
+MRO / maintenance,Google Search,18,1222,413.16344,1196.9262,2.8355155
+MRO / maintenance,Google Shopping,18,745,413.7869,1220.4394,2.8657718
+MRO / maintenance,Marketplaces,18,104,213.03817,784.87404,2.5
+MRO / maintenance,Meta,18,56,571.44161,1500.5625,3.1785714
+MRO / maintenance,Microsoft Ads,18,219,517.88968,1446.3898,2.7853881
+MRO / maintenance,Organic & direct,18,5021,429.95681,1238.2725,2.8090022
+MRO / maintenance,,18,7367,426.16324,1231.3907,2.8168861
+OEM / machine builder,Google Search,18,633,947.34021,3161.9311,3.5529226
+OEM / machine builder,Google Shopping,18,336,826.05893,2850.1105,3.610119
+OEM / machine builder,Marketplaces,18,32,227.06656,1069.0206,2.15625
+OEM / machine builder,Meta,18,8,516.22625,1421.7575,2.75
+OEM / machine builder,Microsoft Ads,18,157,880.18994,2996.3696,3.9426752
+OEM / machine builder,Organic & direct,18,3048,838.21132,2832.2091,3.6046588
+OEM / machine builder,,18,4214,849.94685,2873.2145,3.5972947
+Reseller,Google Search,18,241,1074.6165,4190.6051,3.8713693
+Reseller,Google Shopping,18,227,750.99101,3040.2231,3.7444934
+Reseller,Marketplaces,18,244,736.2934,3352.7664,3.7131148
+Reseller,Microsoft Ads,18,36,1385.5406,4917.2461,3.4166667
+Reseller,Organic & direct,18,1672,1085.7601,4259.7412,3.9880383
+Reseller,,18,2420,1022.4725,4056.7974,3.9173554
+,Google Search,18,4200,405.52432,1320.9543,2.37
+,Google Shopping,18,4151,258.3489,875.23927,2.0190316
+,Marketplaces,18,1078,252.11559,1116.3063,2.0538033
+,Meta,18,516,146.78145,435.97973,1.5755814
+,Microsoft Ads,18,534,608.39856,1947.4721,2.923221
+,Organic & direct,18,17163,454.21014,1508.5414,2.5340558
+,,18,27642,406.75862,1358.0969,2.4026843

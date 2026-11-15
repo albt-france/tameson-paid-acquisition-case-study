@@ -1,0 +1,125 @@
+{
+  "poas_campaigns_differ": 22,
+  "poas_campaigns_total": 45,
+  "poas_campaigns_opposite": 4,
+  "roas_scaled_losing_share": 0.32003112066154604,
+  "roas_scaled_losing_spend": 246145.511,
+  "breakeven_min": {
+    "category": "Fittings & couplings",
+    "breakeven_roas": 2.5952028506532745
+  },
+  "breakeven_max": {
+    "category": "Electrical & automation",
+    "breakeven_roas": 10.989431873288485
+  },
+  "country_margin": {
+    "NL": 0.3058,
+    "DE": 0.3033,
+    "GB": 0.2868,
+    "FR": 0.2978,
+    "ES": 0.2933
+  },
+  "ga4_buyers": 4419,
+  "ga4_single_session_share": 0.47318397827562797,
+  "paid_search": {
+    "conversions_last_click": 37.0,
+    "last_click": 0.008372935053179452,
+    "lc_lo": 0.006336275175379045,
+    "lc_hi": 0.010862186014935505,
+    "markov": 0.011508053738246787,
+    "mk_lo": 0.009639204260389432,
+    "mk_hi": 0.013602000225553523,
+    "markov_no_direct": 0.01894227062993529
+  },
+  "attr_max_shift_pts": 0.013368988517278996,
+  "ab_p0": 0.013473515703816106,
+  "ab_sessions_per_day": 3911.054347826087,
+  "ab_days_10pct": 62,
+  "ab_days_5pct": 241,
+  "underpowered": {
+    "true_lift": 0.05,
+    "days": 14,
+    "n_per_arm": 27377,
+    "power": 0.10485,
+    "mean_estimate_when_significant": 0.1928835422736816,
+    "exaggeration_ratio": 3.8576708454736317,
+    "wrong_sign_share_of_significant": 0.0357653791130186,
+    "false_positive_with_peeking": 0.18025
+  },
+  "geo_min_weeks_10pct": {
+    "NL": null,
+    "DE": 6,
+    "GB": 4,
+    "FR": 4,
+    "ES": null,
+    "BE": null
+  },
+  "geo_plan": {
+    "breakeven_incrementality": 0.6386681200086455,
+    "winsor_ratio_search": 0.6116279357326599,
+    "power_small_70": 0.48420194287675156,
+    "power_mid_70": 0.8606700058083276,
+    "power_big_70": 0.9263614377390493,
+    "power_small_be": 0.4190927250734815,
+    "power_big_be": 0.8763634039597747,
+    "power_meta": 0.03875724731931986,
+    "power_microsoft": 0.07969751205104753
+  },
+  "geo_test": {
+    "effect_gp": -232960.2108751874,
+    "ci90_lo": -324613.00398772524,
+    "ci90_hi": -141307.41776264954,
+    "true_lost_gp": -320535.31467725243,
+    "spend_not_spent": 225544.66648201377,
+    "incremental_poas": 1.032878385061546,
+    "incremental_poas_lo": 0.6265163347319419,
+    "incremental_poas_hi": 1.43924043539115,
+    "attributed_poas": 1.5657584411547945,
+    "true_incremental_poas": 1.4211611370682258
+  },
+  "realloc": {
+    "gain_k_per_year": 333.74506571465844,
+    "gain_p10": 162.08721637256227,
+    "gain_p90": 520.042102086466,
+    "true_gain_k_per_year": 142.79675440214538,
+    "moved_k_per_week": 8.144941432359142,
+    "current_total_k_per_week": 53.40995240384615,
+    "profit_max_total_k_per_week": 36.41529062771759,
+    "mmm_r2": 0.865408037776005
+  },
+  "segment_ltv12": {
+    "Reseller": 823.0,
+    "OEM / machine builder": 667.0,
+    "MRO / maintenance": 350.0,
+    "Installer / contractor": 181.0,
+    "Consumer / hobby": 96.0
+  },
+  "ltv_cac": {
+    "Google Search": 2.46,
+    "Google Shopping": 1.83,
+    "Microsoft Ads": 3.12,
+    "Meta": 0.61,
+    "Marketplaces": 2.36
+  },
+  "ltv_view": {
+    "multiplier": {
+      "Google Search": 2.37,
+      "Google Shopping": 2.27,
+      "Microsoft Ads": 2.35,
+      "Meta": 1.8,
+      "Marketplaces": 4.56
+    },
+    "profit_max_total_k_12m": 83.84257643046405,
+    "current_total_k": 53.40995240384615
+  },
+  "vbb": {
+    "spearman_first_revenue": 0.659690167495071,
+    "spearman_table": 0.49155208439455544,
+    "spearman_gp_plus_repeat": 0.6533536733755846,
+    "top20_capture_first_revenue": 0.48998926230360124,
+    "top20_capture_table": 0.45210949624018126,
+    "top20_capture_gp_plus_repeat": 0.5424856389133461,
+    "top20_capture_perfect": 0.7912272446120617,
+    "n_test": 27777
+  }
+}

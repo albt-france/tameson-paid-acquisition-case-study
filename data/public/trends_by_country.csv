@@ -1,0 +1,51 @@
+topic,topic_id,country_code,country,interest_index,timeframe,collected
+Solenoid valve,/m/06hsj2,AT,Austria,26,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,BE,Belgium,18,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,FR,France,55,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,DE,Germany,26,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,IT,Italy,44,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,NL,Netherlands,10,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,PL,Poland,72,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,ES,Spain,37,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,GB,United Kingdom,13,today 5-y,2026-11-14
+Solenoid valve,/m/06hsj2,US,United States,16,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,AT,Austria,40,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,BE,Belgium,20,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,FR,France,2,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,DE,Germany,39,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,IT,Italy,17,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,NL,Netherlands,37,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,PL,Poland,56,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,ES,Spain,11,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,GB,United Kingdom,26,today 5-y,2026-11-14
+Ball valve,/m/02wv_k,US,United States,32,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,AT,Austria,26,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,BE,Belgium,6,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,FR,France,1,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,DE,Germany,23,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,IT,Italy,19,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,NL,Netherlands,7,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,PL,Poland,9,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,ES,Spain,2,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,GB,United Kingdom,17,today 5-y,2026-11-14
+Pneumatic cylinder,/m/09kpsf,US,United States,23,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,AT,Austria,10,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,BE,Belgium,14,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,FR,France,13,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,DE,Germany,10,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,IT,Italy,3,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,NL,Netherlands,33,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,PL,Poland,11,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,ES,Spain,3,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,GB,United Kingdom,63,today 5-y,2026-11-14
+Pipe fitting,/m/0gtlsq,US,United States,48,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,AT,Austria,21,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,BE,Belgium,24,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,FR,France,33,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,DE,Germany,22,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,IT,Italy,23,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,NL,Netherlands,19,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,PL,Poland,100,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,ES,Spain,35,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,GB,United Kingdom,17,today 5-y,2026-11-14
+Pneumatics,/m/01bv6j,US,United States,21,today 5-y,2026-11-14

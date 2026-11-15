@@ -1,0 +1,8 @@
+domain,final_url,http_status,language,currency,fx_rate_vs_eur,market_country,collected
+tameson.com,https://tameson.com/,200,en,USD,1.10245,US,2026-11-14
+tameson.co.uk,https://tameson.co.uk/,200,en,GBP,0.834453,GB,2026-11-14
+tameson.nl,https://tameson.nl/,200,nl,EUR,1.0,NL,2026-11-14
+tameson.de,https://tameson.de/,200,de,EUR,1.0,DE,2026-11-14
+tameson.fr,https://tameson.fr/,200,fr,EUR,1.0,FR,2026-11-14
+tameson.es,https://tameson.es/,200,es,EUR,1.0,ES,2026-11-14
+tameson.be,https://tameson.nl/,200,nl,EUR,1.0,NL,2026-11-14

@@ -1,0 +1,18 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# raw snapshots (large or full page text): rebuild with src/collect_*.py and src/extract_ga4.py
+data/raw/
+
+# large generated file: rebuilt by sql/04_cohort_ltv.sql
+data/output/customer_value.csv
+docs/_print.pdf
+# intermediate HTML of the PDF (rebuilt by src/build_report.py)
+docs/report.html
+
+# personal interview preparation (not part of the case study)
+prep/

@@ -1,0 +1,941 @@
+path,conversions,non_conversions
+Organic Search,1124.0,69877.0
+Direct,834.0,129187.0
+Referral,646.0,13678.0
+Organic Search > Direct,358.0,8777.0
+Referral > Direct,154.0,2162.0
+Unknown (obfuscated),90.0,20114.0
+Organic Search > Direct > Organic Search,89.0,522.0
+Direct > Organic Search,84.0,1484.0
+Direct > Referral,79.0,776.0
+Unknown (obfuscated) > Direct,69.0,2375.0
+Referral > Direct > Referral,51.0,132.0
+Organic Search > Referral,47.0,583.0
+Organic Search > Unknown (obfuscated),46.0,647.0
+Referral > Organic Search,39.0,284.0
+Direct > Organic Search > Direct,38.0,642.0
+Organic Search > Direct > Referral,36.0,191.0
+Paid Search,29.0,5966.0
+Direct > Referral > Direct,27.0,360.0
+Organic Search > Direct > Organic Search > Direct,27.0,335.0
+Referral > Direct > Organic Search,23.0,80.0
+Direct > Unknown (obfuscated),22.0,555.0
+Referral > Unknown (obfuscated),19.0,141.0
+Organic Search > Direct > Unknown (obfuscated),18.0,109.0
+Paid Search > Direct,16.0,698.0
+Unknown (obfuscated) > Organic Search,15.0,382.0
+Organic Search > Unknown (obfuscated) > Direct,13.0,178.0
+Unknown (obfuscated) > Direct > Organic Search,13.0,101.0
+Organic Search > Referral > Direct,12.0,181.0
+Referral > Direct > Referral > Direct,12.0,69.0
+Unknown (obfuscated) > Organic Search > Direct,11.0,100.0
+Organic Search > Direct > Organic Search > Direct > Organic Search,11.0,61.0
+Direct > Unknown (obfuscated) > Direct,9.0,231.0
+Organic Search > Direct > Referral > Direct,9.0,78.0
+Direct > Organic Search > Direct > Organic Search,9.0,59.0
+Unknown (obfuscated) > Referral,8.0,188.0
+Direct > Referral > Direct > Referral,8.0,29.0
+Referral > Direct > Unknown (obfuscated),8.0,23.0
+Unknown (obfuscated) > Direct > Referral,6.0,50.0
+Unknown (obfuscated) > Direct > Organic Search > Direct,6.0,42.0
+Direct > Referral > Direct > Referral > Direct,6.0,15.0
+Referral > Organic Search > Direct > Organic Search,6.0,15.0
+Referral > Organic Search > Direct,5.0,92.0
+Referral > Unknown (obfuscated) > Direct,5.0,65.0
+Paid Search > Unknown (obfuscated),5.0,64.0
+Organic Search > Referral > Organic Search,5.0,59.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated),5.0,36.0
+Direct > Organic Search > Unknown (obfuscated),5.0,29.0
+Organic Search > Referral > Direct > Referral,5.0,14.0
+Paid Search > Organic Search,4.0,100.0
+Organic Search > Direct > Unknown (obfuscated) > Direct,4.0,61.0
+Referral > Direct > Organic Search > Direct,4.0,55.0
+Organic Search > Unknown (obfuscated) > Referral,4.0,23.0
+Organic Search > Referral > Direct > Organic Search,4.0,15.0
+Organic Search > Direct > Organic Search > Direct > Referral > Direct,4.0,9.0
+Referral > Direct > Referral > Direct > Referral,4.0,9.0
+Referral > Organic Search > Direct > Organic Search > Direct,4.0,7.0
+Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),4.0,5.0
+Unknown (obfuscated) > Referral > Direct,3.0,80.0
+Direct > Organic Search > Direct > Organic Search > Direct,3.0,73.0
+Organic Search > Unknown (obfuscated) > Organic Search,3.0,50.0
+Direct > Unknown (obfuscated) > Organic Search,3.0,44.0
+Paid Search > Organic Search > Direct,3.0,36.0
+Paid Search > Direct > Organic Search,3.0,32.0
+Unknown (obfuscated) > Direct > Referral > Direct,3.0,31.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct,3.0,29.0
+Referral > Organic Search > Referral,3.0,21.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,3.0,21.0
+Paid Search > Referral > Direct,3.0,20.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search,3.0,16.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search,3.0,14.0
+Referral > Paid Search,3.0,7.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,3.0,6.0
+Organic Search > Unknown (obfuscated) > Direct > Referral,3.0,3.0
+Paid Search > Referral,2.0,60.0
+Direct > Organic Search > Referral,2.0,58.0
+Direct > Referral > Organic Search,2.0,52.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,2.0,47.0
+Direct > Referral > Organic Search > Direct,2.0,23.0
+Organic Search > Direct > Referral > Organic Search,2.0,21.0
+Direct > Referral > Unknown (obfuscated),2.0,19.0
+Paid Search > Unknown (obfuscated) > Direct,2.0,16.0
+Referral > Direct > Unknown (obfuscated) > Direct,2.0,15.0
+Referral > Direct > Organic Search > Direct > Organic Search,2.0,11.0
+Direct > Organic Search > Unknown (obfuscated) > Direct,2.0,10.0
+Referral > Unknown (obfuscated) > Referral,2.0,10.0
+Direct > Referral > Direct > Organic Search,2.0,8.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,2.0,8.0
+Paid Search > Direct > Referral,2.0,8.0
+Organic Search > Referral > Direct > Organic Search > Direct,2.0,7.0
+Referral > Organic Search > Direct > Referral,2.0,7.0
+Organic Search > Direct > Referral > Direct > Organic Search,2.0,6.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated),2.0,5.0
+Organic Search > Direct > Organic Search > Direct > Referral,2.0,4.0
+Direct > Organic Search > Direct > Organic Search > Direct > Referral,2.0,2.0
+Referral > Direct > Referral > Direct > Organic Search,2.0,2.0
+Referral > Direct > Referral > Unknown (obfuscated),2.0,2.0
+Referral > Organic Search > Referral > Direct > Referral > Direct,2.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Referral,2.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Referral,2.0,1.0
+Direct > Paid Search > Direct > Referral,2.0,0.0
+Referral > Direct > Referral > Organic Search > Direct > Organic Search,2.0,0.0
+Affiliates,1.0,369.0
+Direct > Affiliates,1.0,43.0
+Organic Search > Paid Search,1.0,34.0
+Direct > Unknown (obfuscated) > Referral,1.0,25.0
+Organic Search > Referral > Organic Search > Direct,1.0,23.0
+Direct > Organic Search > Referral > Direct,1.0,19.0
+Direct > Unknown (obfuscated) > Direct > Organic Search,1.0,19.0
+Direct > Unknown (obfuscated) > Organic Search > Direct,1.0,19.0
+Direct > Referral > Direct > Organic Search > Direct,1.0,16.0
+Direct > Organic Search > Direct > Referral,1.0,15.0
+Organic Search > Referral > Unknown (obfuscated),1.0,15.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated),1.0,14.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Direct,1.0,14.0
+Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,1.0,12.0
+Direct > Organic Search > Direct > Referral > Direct,1.0,12.0
+Organic Search > Direct > Organic Search > Referral,1.0,12.0
+Direct > Referral > Unknown (obfuscated) > Direct,1.0,10.0
+Referral > Direct > Referral > Direct > Referral > Direct,1.0,9.0
+Unknown (obfuscated) > Referral > Organic Search,1.0,9.0
+Organic Search > Direct > Referral > Direct > Referral > Direct,1.0,8.0
+Paid Search > Direct > Unknown (obfuscated),1.0,8.0
+Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,1.0,7.0
+Organic Search > Direct > Referral > Direct > Referral,1.0,7.0
+Organic Search > Direct > Referral > Organic Search > Direct,1.0,7.0
+Organic Search > Referral > Direct > Referral > Direct,1.0,7.0
+Referral > Direct > Referral > Direct > Referral > Direct > Referral,1.0,7.0
+Referral > Organic Search > Referral > Direct,1.0,7.0
+Referral > Organic Search > Unknown (obfuscated),1.0,7.0
+Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,1.0,5.0
+Organic Search > Direct > Organic Search > Referral > Direct,1.0,5.0
+Referral > Direct > Referral > Organic Search,1.0,5.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search,1.0,5.0
+Unknown (obfuscated) > Direct > Referral > Organic Search,1.0,5.0
+Direct > Organic Search > Referral > Direct > Referral,1.0,4.0
+Direct > Organic Search > Unknown (obfuscated) > Organic Search,1.0,4.0
+Organic Search > Direct > Referral > Direct > Organic Search > Direct,1.0,4.0
+Organic Search > Direct > Unknown (obfuscated) > Referral,1.0,4.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search,1.0,4.0
+Unknown (obfuscated) > Paid Search > Direct,1.0,4.0
+Direct > Organic Search > Referral > Direct > Organic Search > Direct,1.0,3.0
+Paid Search > Unknown (obfuscated) > Direct > Organic Search,1.0,3.0
+Referral > Direct > Organic Search > Unknown (obfuscated),1.0,3.0
+Referral > Direct > Unknown (obfuscated) > Referral,1.0,3.0
+Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated),1.0,3.0
+Direct > Referral > Direct > Referral > Direct > Referral,1.0,2.0
+Organic Search > Referral > Organic Search > Referral > Organic Search,1.0,2.0
+Organic Search > Referral > Unknown (obfuscated) > Referral,1.0,2.0
+Paid Search > Direct > Organic Search > Direct > Organic Search > Direct,1.0,2.0
+Referral > Direct > Organic Search > Direct > Referral > Direct,1.0,2.0
+Referral > Unknown (obfuscated) > Direct > Referral > Direct,1.0,2.0
+Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated) > Direct,1.0,2.0
+Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,1.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Referral,1.0,1.0
+Direct > Unknown (obfuscated) > Referral > Direct > Organic Search > Direct,1.0,1.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Referral,1.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Referral,1.0,1.0
+Organic Search > Paid Search > Direct > Organic Search,1.0,1.0
+Organic Search > Referral > Direct > Referral > Direct > Referral,1.0,1.0
+Organic Search > Referral > Organic Search > Referral > Direct > Organic Search,1.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Paid Search,1.0,1.0
+Paid Search > Referral > Organic Search > Direct,1.0,1.0
+Paid Search > Unknown (obfuscated) > Referral,1.0,1.0
+Referral > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,1.0,1.0
+Referral > Direct > Referral > Direct > Referral > Organic Search,1.0,1.0
+Referral > Direct > Referral > Direct > Referral > Organic Search > Direct > Referral,1.0,1.0
+Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Referral,1.0,1.0
+Referral > Organic Search > Referral > Direct > Referral,1.0,1.0
+Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,1.0,1.0
+Direct > Organic Search > Direct > Organic Search > Referral > Direct,1.0,0.0
+Direct > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct,1.0,0.0
+Direct > Organic Search > Direct > Paid Search,1.0,0.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated),1.0,0.0
+Direct > Referral > Direct > Organic Search > Unknown (obfuscated),1.0,0.0
+Direct > Referral > Direct > Referral > Unknown (obfuscated),1.0,0.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,1.0,0.0
+Organic Search > Direct > Organic Search > Referral > Direct > Unknown (obfuscated),1.0,0.0
+Organic Search > Direct > Organic Search > Referral > Organic Search > Referral,1.0,0.0
+Organic Search > Direct > Paid Search > Organic Search > Direct,1.0,0.0
+Organic Search > Direct > Referral > Organic Search > Direct > Organic Search,1.0,0.0
+Organic Search > Direct > Referral > Organic Search > Unknown (obfuscated) > Direct,1.0,0.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),1.0,0.0
+Organic Search > Referral > Direct > Organic Search > Direct > Organic Search > Direct > Referral > Direct > Organic Search > Referral,1.0,0.0
+Organic Search > Referral > Organic Search > Direct > Paid Search > Organic Search,1.0,0.0
+Organic Search > Referral > Organic Search > Direct > Referral,1.0,0.0
+Organic Search > Unknown (obfuscated) > Paid Search > Direct,1.0,0.0
+Organic Search > Unknown (obfuscated) > Referral > Direct > Unknown (obfuscated) > Direct,1.0,0.0
+Organic Search > Unknown (obfuscated) > Referral > Unknown (obfuscated),1.0,0.0
+Organic Search > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Direct,1.0,0.0
+Paid Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,1.0,0.0
+Paid Search > Direct > Paid Search > Direct,1.0,0.0
+Paid Search > Direct > Referral > Organic Search > Direct > Organic Search > Direct,1.0,0.0
+Paid Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),1.0,0.0
+Referral > Direct > Organic Search > Direct > Unknown (obfuscated),1.0,0.0
+Referral > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Organic Search,1.0,0.0
+Referral > Direct > Referral > Direct > Organic Search > Direct > Organic Search,1.0,0.0
+Referral > Direct > Referral > Direct > Referral > Unknown (obfuscated),1.0,0.0
+Referral > Direct > Referral > Organic Search > Direct > Organic Search > Direct,1.0,0.0
+Referral > Direct > Referral > Organic Search > Direct > Paid Search,1.0,0.0
+Referral > Direct > Referral > Organic Search > Direct > Referral > Direct > Referral,1.0,0.0
+Referral > Direct > Referral > Organic Search > Referral,1.0,0.0
+Referral > Direct > Referral > Organic Search > Referral > Direct > Referral,1.0,0.0
+Referral > Direct > Referral > Unknown (obfuscated) > Direct > Organic Search > Direct > Referral,1.0,0.0
+Referral > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Organic Search > Direct > Organic Search,1.0,0.0
+Referral > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Unknown (obfuscated),1.0,0.0
+Referral > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),1.0,0.0
+Referral > Organic Search > Direct > Organic Search > Direct > Referral,1.0,0.0
+Referral > Organic Search > Referral > Direct > Unknown (obfuscated) > Direct > Referral,1.0,0.0
+Referral > Unknown (obfuscated) > Organic Search > Referral,1.0,0.0
+Referral > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),1.0,0.0
+Referral > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,1.0,0.0
+Referral > Unknown (obfuscated) > Referral > Unknown (obfuscated),1.0,0.0
+Unknown (obfuscated) > Direct > Paid Search > Direct > Referral,1.0,0.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Paid Search,1.0,0.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Paid Search > Organic Search > Direct,1.0,0.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,1.0,0.0
+Unknown (obfuscated) > Organic Search > Referral > Direct > Referral > Direct > Referral,1.0,0.0
+Unknown (obfuscated) > Referral > Direct > Referral > Direct > Referral,1.0,0.0
+Affiliates > Direct,0.0,243.0
+Direct > Paid Search,0.0,31.0
+Direct > Affiliates > Direct,0.0,27.0
+Organic Search > Affiliates,0.0,23.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,21.0
+Affiliates > Organic Search,0.0,18.0
+Affiliates > Organic Search > Direct,0.0,17.0
+Referral > Unknown (obfuscated) > Organic Search,0.0,15.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,15.0
+Affiliates > Referral,0.0,13.0
+Direct > Paid Search > Direct,0.0,13.0
+Organic Search > Paid Search > Direct,0.0,13.0
+Paid Search > Direct > Organic Search > Direct,0.0,12.0
+Affiliates > Unknown (obfuscated),0.0,11.0
+Direct > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,11.0
+Organic Search > Referral > Unknown (obfuscated) > Direct,0.0,11.0
+Affiliates > Direct > Affiliates,0.0,10.0
+Organic Search > Direct > Paid Search,0.0,10.0
+Organic Search > Unknown (obfuscated) > Referral > Direct,0.0,10.0
+Direct > Organic Search > Direct > Unknown (obfuscated),0.0,9.0
+Organic Search > Referral > Organic Search > Referral,0.0,9.0
+Unknown (obfuscated) > Paid Search,0.0,9.0
+Direct > Organic Search > Referral > Organic Search,0.0,8.0
+Direct > Unknown (obfuscated) > Direct > Referral,0.0,8.0
+Direct > Unknown (obfuscated) > Referral > Direct,0.0,8.0
+Organic Search > Affiliates > Direct,0.0,8.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,8.0
+Paid Search > Direct > Referral > Direct,0.0,8.0
+Paid Search > Direct > Unknown (obfuscated) > Direct,0.0,8.0
+Referral > Direct > Organic Search > Referral,0.0,8.0
+Affiliates > Direct > Organic Search,0.0,7.0
+Affiliates > Direct > Organic Search > Direct,0.0,7.0
+Affiliates > Referral > Direct,0.0,7.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,7.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,7.0
+Paid Search > Organic Search > Referral,0.0,7.0
+Unknown (obfuscated) > Organic Search > Referral,0.0,7.0
+Unknown (obfuscated) > Organic Search > Referral > Organic Search,0.0,7.0
+Unknown (obfuscated) > Referral > Direct > Referral,0.0,7.0
+Direct > Paid Search > Organic Search,0.0,6.0
+Direct > Referral > Direct > Unknown (obfuscated),0.0,6.0
+Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated),0.0,6.0
+Organic Search > Direct > Referral > Unknown (obfuscated),0.0,6.0
+Organic Search > Referral > Direct > Unknown (obfuscated),0.0,6.0
+Organic Search > Referral > Organic Search > Direct > Organic Search,0.0,6.0
+Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,6.0
+Paid Search > Affiliates,0.0,6.0
+Paid Search > Referral > Organic Search,0.0,6.0
+Unknown (obfuscated) > Affiliates > Direct,0.0,6.0
+Unknown (obfuscated) > Organic Search > Referral > Direct,0.0,6.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,6.0
+Unknown (obfuscated) > Referral > Unknown (obfuscated),0.0,6.0
+Affiliates > Direct > Affiliates > Direct,0.0,5.0
+Affiliates > Direct > Referral,0.0,5.0
+Direct > Organic Search > Unknown (obfuscated) > Organic Search > Direct,0.0,5.0
+Direct > Referral > Direct > Unknown (obfuscated) > Direct,0.0,5.0
+Direct > Referral > Organic Search > Direct > Organic Search > Direct,0.0,5.0
+Organic Search > Direct > Affiliates,0.0,5.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,5.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Direct,0.0,5.0
+Referral > Affiliates > Direct,0.0,5.0
+Referral > Direct > Organic Search > Direct > Organic Search > Direct,0.0,5.0
+Referral > Direct > Paid Search,0.0,5.0
+Referral > Organic Search > Direct > Referral > Direct,0.0,5.0
+Unknown (obfuscated) > Organic Search > Direct > Referral > Direct,0.0,5.0
+Unknown (obfuscated) > Referral > Direct > Referral > Direct,0.0,5.0
+Affiliates > Direct > Affiliates > Direct > Affiliates > Direct,0.0,4.0
+Affiliates > Unknown (obfuscated) > Direct,0.0,4.0
+Direct > Organic Search > Direct > Organic Search > Referral,0.0,4.0
+Direct > Organic Search > Referral > Direct > Organic Search,0.0,4.0
+Direct > Organic Search > Referral > Organic Search > Direct,0.0,4.0
+Direct > Referral > Organic Search > Direct > Organic Search,0.0,4.0
+Direct > Referral > Organic Search > Referral,0.0,4.0
+Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,4.0
+Direct > Unknown (obfuscated) > Referral > Organic Search,0.0,4.0
+Organic Search > Direct > Organic Search > Referral > Organic Search > Direct,0.0,4.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,4.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Referral,0.0,4.0
+Organic Search > Unknown (obfuscated) > Organic Search > Referral,0.0,4.0
+Paid Search > Direct > Organic Search > Direct > Organic Search,0.0,4.0
+Paid Search > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,4.0
+Paid Search > Organic Search > Unknown (obfuscated),0.0,4.0
+Paid Search > Referral > Unknown (obfuscated),0.0,4.0
+Referral > Unknown (obfuscated) > Organic Search > Direct,0.0,4.0
+Unknown (obfuscated) > Affiliates,0.0,4.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct,0.0,4.0
+Unknown (obfuscated) > Direct > Referral > Organic Search > Direct,0.0,4.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,4.0
+Unknown (obfuscated) > Referral > Direct > Organic Search,0.0,4.0
+Direct > Organic Search > Affiliates,0.0,3.0
+Direct > Organic Search > Referral > Direct > Referral > Direct,0.0,3.0
+Direct > Organic Search > Referral > Unknown (obfuscated),0.0,3.0
+Direct > Organic Search > Unknown (obfuscated) > Referral,0.0,3.0
+Direct > Unknown (obfuscated) > Affiliates,0.0,3.0
+Direct > Unknown (obfuscated) > Direct > Referral > Direct,0.0,3.0
+Organic Search > Affiliates > Organic Search,0.0,3.0
+Organic Search > Direct > Organic Search > Referral > Organic Search,0.0,3.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,3.0
+Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search,0.0,3.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,3.0
+Organic Search > Unknown (obfuscated) > Referral > Direct > Referral > Direct,0.0,3.0
+Paid Search > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,3.0
+Paid Search > Organic Search > Direct > Unknown (obfuscated),0.0,3.0
+Paid Search > Unknown (obfuscated) > Organic Search,0.0,3.0
+Paid Search > Unknown (obfuscated) > Organic Search > Direct,0.0,3.0
+Referral > Affiliates,0.0,3.0
+Referral > Organic Search > Direct > Unknown (obfuscated),0.0,3.0
+Referral > Paid Search > Direct,0.0,3.0
+Referral > Unknown (obfuscated) > Direct > Organic Search,0.0,3.0
+Referral > Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,3.0
+Unknown (obfuscated) > Direct > Affiliates,0.0,3.0
+Unknown (obfuscated) > Direct > Organic Search > Referral,0.0,3.0
+Unknown (obfuscated) > Direct > Organic Search > Referral > Direct,0.0,3.0
+Unknown (obfuscated) > Direct > Paid Search > Direct,0.0,3.0
+Unknown (obfuscated) > Direct > Referral > Direct > Organic Search,0.0,3.0
+Unknown (obfuscated) > Direct > Referral > Direct > Referral,0.0,3.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Direct,0.0,3.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,3.0
+Unknown (obfuscated) > Referral > Direct > Organic Search > Direct,0.0,3.0
+Unknown (obfuscated) > Referral > Organic Search > Direct,0.0,3.0
+Affiliates > Direct > Affiliates > Organic Search > Direct > Organic Search,0.0,2.0
+Affiliates > Direct > Organic Search > Direct > Organic Search > Direct,0.0,2.0
+Affiliates > Direct > Referral > Direct,0.0,2.0
+Affiliates > Direct > Referral > Organic Search,0.0,2.0
+Affiliates > Direct > Unknown (obfuscated),0.0,2.0
+Affiliates > Direct > Unknown (obfuscated) > Direct,0.0,2.0
+Affiliates > Organic Search > Direct > Organic Search,0.0,2.0
+Affiliates > Organic Search > Direct > Referral,0.0,2.0
+Direct > Affiliates > Organic Search > Direct,0.0,2.0
+Direct > Affiliates > Unknown (obfuscated),0.0,2.0
+Direct > Organic Search > Direct > Organic Search > Direct > Referral > Direct,0.0,2.0
+Direct > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Referral,0.0,2.0
+Direct > Organic Search > Direct > Referral > Organic Search > Direct,0.0,2.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Organic Search,0.0,2.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,2.0
+Direct > Paid Search > Unknown (obfuscated) > Direct,0.0,2.0
+Direct > Referral > Direct > Organic Search > Referral,0.0,2.0
+Direct > Referral > Direct > Referral > Direct > Referral > Direct,0.0,2.0
+Direct > Referral > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,2.0
+Direct > Referral > Organic Search > Referral > Direct,0.0,2.0
+Direct > Unknown (obfuscated) > Direct > Organic Search > Referral,0.0,2.0
+Direct > Unknown (obfuscated) > Organic Search > Direct > Referral > Direct,0.0,2.0
+Direct > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,2.0
+Direct > Unknown (obfuscated) > Organic Search > Referral > Direct,0.0,2.0
+Organic Search > Direct > Affiliates > Direct,0.0,2.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,2.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Referral > Direct,0.0,2.0
+Organic Search > Direct > Organic Search > Direct > Referral > Organic Search,0.0,2.0
+Organic Search > Direct > Organic Search > Referral > Direct > Organic Search > Direct,0.0,2.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Organic Search,0.0,2.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Referral > Direct,0.0,2.0
+Organic Search > Direct > Paid Search > Direct,0.0,2.0
+Organic Search > Direct > Referral > Direct > Unknown (obfuscated),0.0,2.0
+Organic Search > Direct > Referral > Organic Search > Direct > Organic Search > Direct,0.0,2.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated),0.0,2.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Referral > Direct,0.0,2.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,2.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,2.0
+Organic Search > Paid Search > Direct > Unknown (obfuscated),0.0,2.0
+Organic Search > Paid Search > Organic Search > Direct,0.0,2.0
+Organic Search > Paid Search > Unknown (obfuscated) > Direct,0.0,2.0
+Organic Search > Referral > Organic Search > Direct > Organic Search > Direct,0.0,2.0
+Organic Search > Referral > Organic Search > Unknown (obfuscated),0.0,2.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search,0.0,2.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,2.0
+Organic Search > Unknown (obfuscated) > Organic Search > Referral > Direct,0.0,2.0
+Organic Search > Unknown (obfuscated) > Paid Search,0.0,2.0
+Organic Search > Unknown (obfuscated) > Referral > Direct > Organic Search,0.0,2.0
+Paid Search > Direct > Referral > Organic Search > Direct,0.0,2.0
+Paid Search > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,2.0
+Paid Search > Organic Search > Direct > Organic Search,0.0,2.0
+Paid Search > Organic Search > Direct > Referral,0.0,2.0
+Paid Search > Referral > Direct > Organic Search,0.0,2.0
+Paid Search > Referral > Direct > Referral,0.0,2.0
+Referral > Direct > Affiliates,0.0,2.0
+Referral > Direct > Affiliates > Direct,0.0,2.0
+Referral > Direct > Organic Search > Referral > Direct,0.0,2.0
+Referral > Direct > Organic Search > Unknown (obfuscated) > Direct > Organic Search,0.0,2.0
+Referral > Direct > Referral > Direct > Referral > Direct > Referral > Direct,0.0,2.0
+Referral > Direct > Referral > Organic Search > Direct,0.0,2.0
+Referral > Direct > Unknown (obfuscated) > Organic Search,0.0,2.0
+Referral > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,2.0
+Referral > Direct > Unknown (obfuscated) > Referral > Direct,0.0,2.0
+Referral > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,2.0
+Referral > Organic Search > Direct > Referral > Organic Search > Direct,0.0,2.0
+Referral > Organic Search > Unknown (obfuscated) > Organic Search > Direct,0.0,2.0
+Referral > Paid Search > Organic Search,0.0,2.0
+Referral > Paid Search > Unknown (obfuscated) > Direct,0.0,2.0
+Referral > Unknown (obfuscated) > Direct > Referral,0.0,2.0
+Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,2.0
+Referral > Unknown (obfuscated) > Referral > Direct > Referral,0.0,2.0
+Referral > Unknown (obfuscated) > Referral > Organic Search,0.0,2.0
+Unknown (obfuscated) > Affiliates > Organic Search,0.0,2.0
+Unknown (obfuscated) > Direct > Affiliates > Direct,0.0,2.0
+Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated),0.0,2.0
+Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct,0.0,2.0
+Unknown (obfuscated) > Direct > Referral > Unknown (obfuscated),0.0,2.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,2.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Referral,0.0,2.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,2.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,2.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral,0.0,2.0
+Unknown (obfuscated) > Paid Search > Referral,0.0,2.0
+Unknown (obfuscated) > Referral > Direct > Unknown (obfuscated),0.0,2.0
+Unknown (obfuscated) > Referral > Direct > Unknown (obfuscated) > Direct,0.0,2.0
+Affiliates > Direct > Affiliates > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Affiliates > Direct > Organic Search > Referral > Affiliates > Direct > Organic Search > Direct,0.0,1.0
+Affiliates > Direct > Paid Search,0.0,1.0
+Affiliates > Direct > Referral > Direct > Organic Search,0.0,1.0
+Affiliates > Direct > Referral > Organic Search > Direct,0.0,1.0
+Affiliates > Direct > Referral > Organic Search > Direct > Organic Search,0.0,1.0
+Affiliates > Direct > Unknown (obfuscated) > Direct > Affiliates,0.0,1.0
+Affiliates > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Affiliates > Organic Search > Direct > Affiliates > Direct,0.0,1.0
+Affiliates > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Affiliates > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Affiliates > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Affiliates > Organic Search > Referral,0.0,1.0
+Affiliates > Organic Search > Referral > Direct,0.0,1.0
+Affiliates > Organic Search > Referral > Direct > Referral,0.0,1.0
+Affiliates > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Affiliates > Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Affiliates > Referral > Affiliates > Direct,0.0,1.0
+Affiliates > Referral > Organic Search,0.0,1.0
+Affiliates > Referral > Organic Search > Direct,0.0,1.0
+Affiliates > Unknown (obfuscated) > Affiliates > Direct > Referral,0.0,1.0
+Affiliates > Unknown (obfuscated) > Direct > Referral > Organic Search,0.0,1.0
+Affiliates > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Affiliates > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Affiliates > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Direct > Affiliates > Direct > Affiliates > Direct > Organic Search > Direct,0.0,1.0
+Direct > Affiliates > Direct > Affiliates > Organic Search,0.0,1.0
+Direct > Affiliates > Direct > Organic Search > Direct,0.0,1.0
+Direct > Affiliates > Direct > Referral,0.0,1.0
+Direct > Affiliates > Direct > Referral > Direct,0.0,1.0
+Direct > Affiliates > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Affiliates > Organic Search > Referral,0.0,1.0
+Direct > Affiliates > Referral,0.0,1.0
+Direct > Affiliates > Referral > Direct,0.0,1.0
+Direct > Organic Search > Affiliates > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Affiliates,0.0,1.0
+Direct > Organic Search > Direct > Affiliates > Direct,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Referral > Direct,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Referral > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Direct > Paid Search > Organic Search > Referral > Direct,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Direct > Referral > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Organic Search > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Direct > Referral > Direct > Referral,0.0,1.0
+Direct > Organic Search > Direct > Referral > Direct > Referral > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Referral > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Referral > Organic Search > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Referral,0.0,1.0
+Direct > Organic Search > Direct > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Direct > Organic Search > Paid Search > Direct,0.0,1.0
+Direct > Organic Search > Referral > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Referral > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Organic Search > Referral > Organic Search > Direct > Affiliates > Direct > Organic Search > Affiliates > Direct,0.0,1.0
+Direct > Organic Search > Referral > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Referral > Organic Search > Direct > Referral > Direct,0.0,1.0
+Direct > Organic Search > Referral > Organic Search > Referral,0.0,1.0
+Direct > Organic Search > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Organic Search > Referral > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Direct > Organic Search > Referral > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Referral > Unknown (obfuscated) > Organic Search,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Organic Search > Referral > Direct,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Referral > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Direct > Organic Search > Unknown (obfuscated) > Referral > Organic Search,0.0,1.0
+Direct > Paid Search > Direct > Organic Search,0.0,1.0
+Direct > Paid Search > Direct > Unknown (obfuscated) > Referral > Direct > Referral > Direct,0.0,1.0
+Direct > Paid Search > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Direct > Paid Search > Referral,0.0,1.0
+Direct > Paid Search > Referral > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Paid Search > Unknown (obfuscated),0.0,1.0
+Direct > Paid Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Referral > Affiliates,0.0,1.0
+Direct > Referral > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Direct > Referral > Direct > Organic Search > Direct > Referral > Direct,0.0,1.0
+Direct > Referral > Direct > Organic Search > Referral > Direct,0.0,1.0
+Direct > Referral > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Referral > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Direct > Referral > Direct > Referral > Direct > Organic Search > Referral,0.0,1.0
+Direct > Referral > Direct > Referral > Direct > Referral > Direct > Referral,0.0,1.0
+Direct > Referral > Direct > Referral > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Direct > Referral > Direct > Referral > Direct > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Direct > Referral > Direct > Referral > Organic Search,0.0,1.0
+Direct > Referral > Direct > Referral > Organic Search > Direct,0.0,1.0
+Direct > Referral > Direct > Referral > Organic Search > Direct > Referral,0.0,1.0
+Direct > Referral > Direct > Referral > Organic Search > Referral,0.0,1.0
+Direct > Referral > Direct > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Direct > Referral > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Direct > Referral > Direct > Unknown (obfuscated) > Organic Search > Referral,0.0,1.0
+Direct > Referral > Direct > Unknown (obfuscated) > Paid Search > Unknown (obfuscated),0.0,1.0
+Direct > Referral > Organic Search > Affiliates,0.0,1.0
+Direct > Referral > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Direct > Referral > Organic Search > Direct > Referral,0.0,1.0
+Direct > Referral > Organic Search > Direct > Referral > Organic Search,0.0,1.0
+Direct > Referral > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Referral > Organic Search > Unknown (obfuscated),0.0,1.0
+Direct > Referral > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Referral > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Referral > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Direct > Referral > Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Direct > Referral > Paid Search,0.0,1.0
+Direct > Referral > Paid Search > Direct > Organic Search > Direct,0.0,1.0
+Direct > Referral > Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Referral > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Direct > Referral > Unknown (obfuscated) > Referral,0.0,1.0
+Direct > Referral > Unknown (obfuscated) > Referral > Direct > Organic Search > Direct,0.0,1.0
+Direct > Referral > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Affiliates,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Organic Search > Referral > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Paid Search,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Paid Search > Direct > Referral > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Referral > Direct > Organic Search > Referral > Direct > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Referral > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Referral > Organic Search > Direct > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral,0.0,1.0
+Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Direct > Referral > Unknown (obfuscated) > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Referral > Direct > Paid Search > Referral > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Paid Search,0.0,1.0
+Direct > Unknown (obfuscated) > Paid Search > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Paid Search > Direct > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Paid Search > Referral > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Paid Search > Unknown (obfuscated),0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Direct > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Direct > Referral,0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Organic Search > Direct,0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Organic Search > Direct > Organic Search,0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Paid Search,0.0,1.0
+Direct > Unknown (obfuscated) > Referral > Unknown (obfuscated),0.0,1.0
+Organic Search > Affiliates > Direct > Affiliates > Referral > Direct,0.0,1.0
+Organic Search > Affiliates > Direct > Organic Search,0.0,1.0
+Organic Search > Affiliates > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Affiliates > Direct > Organic Search > Referral,0.0,1.0
+Organic Search > Affiliates > Organic Search > Direct,0.0,1.0
+Organic Search > Affiliates > Organic Search > Referral > Direct,0.0,1.0
+Organic Search > Affiliates > Organic Search > Referral > Organic Search,0.0,1.0
+Organic Search > Affiliates > Paid Search > Direct,0.0,1.0
+Organic Search > Affiliates > Referral > Organic Search > Affiliates > Direct,0.0,1.0
+Organic Search > Direct > Affiliates > Direct > Referral > Direct,0.0,1.0
+Organic Search > Direct > Affiliates > Organic Search,0.0,1.0
+Organic Search > Direct > Affiliates > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Affiliates > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Referral,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Referral > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Organic Search > Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Paid Search > Referral > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Referral > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Referral > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Paid Search,0.0,1.0
+Organic Search > Direct > Organic Search > Referral > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Referral > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Referral > Direct > Referral,0.0,1.0
+Organic Search > Direct > Organic Search > Referral > Direct > Referral > Direct > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Direct > Organic Search > Referral > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Referral > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Organic Search > Unknown (obfuscated) > Organic Search > Referral > Unknown (obfuscated) > Referral > Organic Search,0.0,1.0
+Organic Search > Direct > Paid Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Affiliates > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Affiliates,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Referral > Direct > Organic Search > Referral > Organic Search,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Referral > Direct > Referral,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Organic Search > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Referral > Direct > Referral > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Referral > Unknown (obfuscated) > Referral > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Referral > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Referral > Direct > Unknown (obfuscated) > Referral > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Referral > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Direct > Referral > Organic Search > Referral > Direct > Referral > Direct,0.0,1.0
+Organic Search > Direct > Referral > Organic Search > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Referral > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Organic Search > Direct > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Referral > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Referral > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Referral > Unknown (obfuscated) > Organic Search > Referral,0.0,1.0
+Organic Search > Direct > Referral > Unknown (obfuscated) > Referral > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Affiliates > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Referral,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Referral > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Referral > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Paid Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Paid Search > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Direct > Organic Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Direct > Referral,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Direct > Referral > Direct,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Direct > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Paid Search,0.0,1.0
+Organic Search > Direct > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Paid Search > Direct > Referral > Direct,0.0,1.0
+Organic Search > Paid Search > Organic Search,0.0,1.0
+Organic Search > Paid Search > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Paid Search > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Paid Search > Organic Search > Unknown (obfuscated) > Referral,0.0,1.0
+Organic Search > Paid Search > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Referral > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Referral > Direct > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Referral > Direct > Organic Search > Direct > Referral > Direct,0.0,1.0
+Organic Search > Referral > Direct > Organic Search > Referral > Organic Search > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Referral > Direct > Referral > Affiliates > Direct,0.0,1.0
+Organic Search > Referral > Direct > Referral > Direct > Organic Search,0.0,1.0
+Organic Search > Referral > Direct > Referral > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Organic Search > Referral > Direct > Referral > Direct > Referral > Organic Search,0.0,1.0
+Organic Search > Referral > Direct > Referral > Organic Search,0.0,1.0
+Organic Search > Referral > Direct > Referral > Organic Search > Direct,0.0,1.0
+Organic Search > Referral > Direct > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Referral > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Referral > Direct > Unknown (obfuscated) > Direct > Referral > Organic Search,0.0,1.0
+Organic Search > Referral > Direct > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Referral > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Referral > Organic Search > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Organic Search > Referral > Organic Search > Direct > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Referral > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Referral > Organic Search > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Referral > Organic Search > Referral > Organic Search > Referral,0.0,1.0
+Organic Search > Referral > Organic Search > Referral > Unknown (obfuscated),0.0,1.0
+Organic Search > Referral > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Organic Search > Referral > Organic Search > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Organic Search,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Organic Search > Direct > Referral > Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Organic Search > Referral > Unknown (obfuscated) > Referral > Organic Search > Paid Search,0.0,1.0
+Organic Search > Unknown (obfuscated) > Affiliates,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Affiliates,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Affiliates > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Referral > Organic Search > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Paid Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Paid Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Paid Search > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Referral > Direct > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Referral > Direct > Referral > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Referral > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Referral > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Paid Search > Direct > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct > Referral > Direct > Organic Search,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Paid Search,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Referral > Direct > Organic Search > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Referral > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Organic Search > Unknown (obfuscated) > Referral > Direct > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Referral > Organic Search,0.0,1.0
+Organic Search > Unknown (obfuscated) > Referral > Organic Search > Direct > Referral,0.0,1.0
+Organic Search > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Organic Search > Referral,0.0,1.0
+Paid Search > Affiliates > Direct,0.0,1.0
+Paid Search > Direct > Affiliates,0.0,1.0
+Paid Search > Direct > Affiliates > Direct,0.0,1.0
+Paid Search > Direct > Organic Search > Paid Search,0.0,1.0
+Paid Search > Direct > Organic Search > Referral > Organic Search,0.0,1.0
+Paid Search > Direct > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Paid Search > Direct > Paid Search,0.0,1.0
+Paid Search > Direct > Referral > Direct > Referral,0.0,1.0
+Paid Search > Direct > Referral > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Paid Search > Direct > Referral > Organic Search,0.0,1.0
+Paid Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Paid Search > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Paid Search > Direct > Unknown (obfuscated) > Referral,0.0,1.0
+Paid Search > Direct > Unknown (obfuscated) > Referral > Organic Search,0.0,1.0
+Paid Search > Organic Search > Affiliates > Organic Search,0.0,1.0
+Paid Search > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Paid Search > Organic Search > Direct > Organic Search > Unknown (obfuscated),0.0,1.0
+Paid Search > Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Paid Search > Organic Search > Direct > Unknown (obfuscated) > Referral,0.0,1.0
+Paid Search > Organic Search > Referral > Direct,0.0,1.0
+Paid Search > Organic Search > Referral > Direct > Referral > Direct,0.0,1.0
+Paid Search > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Paid Search > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Paid Search > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Paid Search > Referral > Direct > Organic Search > Direct,0.0,1.0
+Paid Search > Referral > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Paid Search > Referral > Direct > Referral > Direct > Referral > Direct > Referral,0.0,1.0
+Paid Search > Referral > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Paid Search > Referral > Organic Search > Direct > Organic Search > Referral,0.0,1.0
+Paid Search > Referral > Organic Search > Unknown (obfuscated),0.0,1.0
+Paid Search > Referral > Unknown (obfuscated) > Affiliates,0.0,1.0
+Paid Search > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Paid Search > Referral > Unknown (obfuscated) > Organic Search,0.0,1.0
+Paid Search > Referral > Unknown (obfuscated) > Organic Search > Unknown (obfuscated),0.0,1.0
+Paid Search > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,1.0
+Paid Search > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Paid Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Referral > Organic Search > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Paid Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Paid Search > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Paid Search > Unknown (obfuscated) > Organic Search > Referral > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Affiliates > Unknown (obfuscated),0.0,1.0
+Referral > Direct > Organic Search > Affiliates,0.0,1.0
+Referral > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Referral > Direct > Organic Search > Direct > Organic Search > Direct > Referral > Organic Search > Direct,0.0,1.0
+Referral > Direct > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Direct > Organic Search > Direct > Organic Search > Referral,0.0,1.0
+Referral > Direct > Organic Search > Direct > Referral > Direct > Referral,0.0,1.0
+Referral > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Referral > Direct > Organic Search > Paid Search > Direct > Organic Search,0.0,1.0
+Referral > Direct > Organic Search > Referral > Direct > Organic Search,0.0,1.0
+Referral > Direct > Organic Search > Referral > Direct > Organic Search > Direct,0.0,1.0
+Referral > Direct > Organic Search > Referral > Direct > Referral > Direct,0.0,1.0
+Referral > Direct > Organic Search > Referral > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Referral > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Referral > Direct > Referral > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Direct > Referral > Direct > Organic Search > Referral,0.0,1.0
+Referral > Direct > Referral > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Referral > Direct > Referral > Direct > Referral > Organic Search > Referral,0.0,1.0
+Referral > Direct > Referral > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,1.0
+Referral > Direct > Referral > Direct > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Referral > Direct > Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Referral,0.0,1.0
+Referral > Direct > Referral > Organic Search > Direct > Organic Search > Referral > Direct,0.0,1.0
+Referral > Direct > Referral > Organic Search > Direct > Referral,0.0,1.0
+Referral > Direct > Referral > Organic Search > Referral > Direct > Organic Search > Referral > Direct,0.0,1.0
+Referral > Direct > Referral > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Direct > Referral > Unknown (obfuscated) > Referral,0.0,1.0
+Referral > Direct > Referral > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Affiliates > Direct,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Direct > Organic Search > Referral > Direct,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Organic Search > Referral > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Referral > Direct > Organic Search > Referral > Organic Search,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Referral > Direct > Referral,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Referral > Organic Search,0.0,1.0
+Referral > Direct > Unknown (obfuscated) > Referral > Organic Search > Direct > Referral,0.0,1.0
+Referral > Organic Search > Affiliates,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Referral,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Direct > Referral > Direct,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Referral > Direct,0.0,1.0
+Referral > Organic Search > Direct > Organic Search > Referral > Organic Search,0.0,1.0
+Referral > Organic Search > Direct > Paid Search > Direct,0.0,1.0
+Referral > Organic Search > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Referral > Organic Search > Direct > Referral > Direct > Referral > Direct > Referral,0.0,1.0
+Referral > Organic Search > Direct > Referral > Direct > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Organic Search > Direct > Referral > Organic Search,0.0,1.0
+Referral > Organic Search > Direct > Referral > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Referral > Organic Search > Direct > Referral > Organic Search > Direct > Referral,0.0,1.0
+Referral > Organic Search > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,1.0
+Referral > Organic Search > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Referral > Organic Search > Direct > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Referral > Organic Search > Direct > Unknown (obfuscated) > Referral > Organic Search > Direct,0.0,1.0
+Referral > Organic Search > Referral > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Referral > Organic Search > Referral > Direct > Organic Search > Direct > Referral > Direct > Referral,0.0,1.0
+Referral > Organic Search > Referral > Direct > Organic Search > Referral > Direct,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Direct > Referral,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Referral > Direct > Referral,0.0,1.0
+Referral > Organic Search > Unknown (obfuscated) > Referral > Organic Search > Direct > Organic Search,0.0,1.0
+Referral > Paid Search > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Referral > Paid Search > Organic Search > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Direct > Organic Search > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Referral > Unknown (obfuscated) > Direct > Organic Search > Paid Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Referral > Unknown (obfuscated) > Direct > Paid Search > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral,0.0,1.0
+Referral > Unknown (obfuscated) > Organic Search > Referral > Direct > Referral > Organic Search,0.0,1.0
+Referral > Unknown (obfuscated) > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Paid Search > Unknown (obfuscated) > Direct > Unknown (obfuscated),0.0,1.0
+Referral > Unknown (obfuscated) > Referral > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Referral > Direct > Organic Search > Direct,0.0,1.0
+Referral > Unknown (obfuscated) > Referral > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Referral > Unknown (obfuscated) > Referral > Unknown (obfuscated) > Organic Search > Referral > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Affiliates > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Affiliates > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Affiliates > Organic Search > Referral > Organic Search > Referral > Organic Search,0.0,1.0
+Unknown (obfuscated) > Affiliates > Paid Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Affiliates > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Referral > Direct > Organic Search > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Referral > Affiliates,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Referral > Direct > Referral > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Referral > Paid Search > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Paid Search,0.0,1.0
+Unknown (obfuscated) > Direct > Paid Search > Direct > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Referral > Direct > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Referral > Direct > Paid Search,0.0,1.0
+Unknown (obfuscated) > Direct > Referral > Direct > Referral > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Referral > Organic Search > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Referral > Organic Search > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Referral > Unknown (obfuscated) > Referral > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Paid Search > Direct,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Paid Search,0.0,1.0
+Unknown (obfuscated) > Direct > Unknown (obfuscated) > Referral > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Organic Search > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Paid Search > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Direct > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Organic Search > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated) > Direct > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Direct > Unknown (obfuscated) > Referral,0.0,1.0
+Unknown (obfuscated) > Organic Search > Paid Search,0.0,1.0
+Unknown (obfuscated) > Organic Search > Paid Search > Direct > Unknown (obfuscated) > Organic Search > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Organic Search > Referral > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Organic Search > Referral > Direct > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Referral > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct > Organic Search > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct > Organic Search > Referral > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct > Paid Search > Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Organic Search > Unknown (obfuscated) > Referral > Organic Search > Direct,0.0,1.0
+Unknown (obfuscated) > Paid Search > Organic Search > Paid Search > Direct,0.0,1.0
+Unknown (obfuscated) > Paid Search > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Organic Search > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Organic Search > Referral,0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Referral > Direct > Referral > Direct,0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Referral > Direct > Referral > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Referral > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Unknown (obfuscated) > Direct > Referral > Direct > Unknown (obfuscated),0.0,1.0
+Unknown (obfuscated) > Referral > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Organic Search > Direct > Referral,0.0,1.0
+Unknown (obfuscated) > Referral > Organic Search > Direct > Unknown (obfuscated) > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Organic Search > Referral,0.0,1.0
+Unknown (obfuscated) > Referral > Organic Search > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Referral > Organic Search > Unknown (obfuscated) > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Paid Search > Direct > Referral > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Unknown (obfuscated) > Direct,0.0,1.0
+Unknown (obfuscated) > Referral > Unknown (obfuscated) > Direct > Organic Search,0.0,1.0
+Unknown (obfuscated) > Referral > Unknown (obfuscated) > Referral,0.0,1.0
