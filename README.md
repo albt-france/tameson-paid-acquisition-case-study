@@ -4,7 +4,8 @@ POAS-first measurement, uncertainty-aware attribution, power-planned experiments
 multi-country industrial e-commerce.
 
 **[Read the report (PDF, 8 pages)](docs/Tameson_PaidAcquisition_CaseStudy.pdf)** ·
-**[Interactive dashboard](docs/dashboard.html)** (one HTML file, works offline) ·
+**[Interactive dashboard (live)](https://albt-france.github.io/tameson-paid-acquisition-case-study/docs/dashboard.html)**
+([file](docs/dashboard.html): one HTML file, works offline) ·
 [Notebook](notebooks/analysis.ipynb) · [SQL](sql/)
 
 > Independent case study based on public data · not affiliated with or endorsed by Tameson.
